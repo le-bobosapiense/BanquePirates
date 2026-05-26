@@ -7,3 +7,7 @@ class Program
         Console.WriteLine("Bonjour !");
     }
 }
+
+dotnet new console -n MonProjet
+cd MonProjet
+dotnet run
